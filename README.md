@@ -1,6 +1,9 @@
 # 💫 About Me:
 👨‍💻 I’m a passionate UI/UX Designer who loves crafting clean, user-centered designs.<br>📚 Currently diving into the world of C++ and Java to expand my development skills.<br>🎬 Fun fact: I’m a big fan of watching movies—it’s where I get a lot of creative inspiration!
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif
+">
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1GJJGSmEPT/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/its_me_rohit154?igsh=MW01a3I4ZmtqdGp5YQ==) 
